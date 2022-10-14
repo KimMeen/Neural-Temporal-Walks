@@ -1,0 +1,8 @@
+matplotlib==3.3.4
+numba==0.54.1
+numpy==1.19.2
+pandas==1.2.2
+scikit_learn==1.1.1
+torch==1.7.1
+torchdiffeq==0.2.2
+tqdm==4.59.0
