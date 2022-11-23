@@ -1,9 +1,14 @@
 # Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs
 
-[![PDF link](https://img.shields.io/static/v1?label=PDF&message=NeurTWs&color=blue&logo=pdf)](https://mingjin.dev/assets/pdf/neurips-22-jin.pdf)
+[![PDF link](https://img.shields.io/static/v1?label=PDF&message=Preprint&color=blue&logo=pdf)](https://mingjin.dev/assets/pdf/neurips-22-jin.pdf)
+[![Video link](https://img.shields.io/static/v1?label=Video&message=YouTube&color=red&logo=youtube)](https://www.youtube.com/watch?v=oUy6eSdOhms)
 
 ## Introduction
 **[NIPS 2022]** The official PyTorch implementation of "[Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs](https://mingjin.dev/assets/pdf/neurips-22-jin.pdf)"
+
+<p align="center">
+<img src="./assets/thumbnail.png" width="600">
+</p>
 
 ## Authors
 [Ming Jin](https://mingjin.dev/), [Yuan-Fang Li](https://users.monash.edu.au/~yli/), [Shirui Pan](https://shiruipan.github.io/)
